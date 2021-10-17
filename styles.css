@@ -1,0 +1,228 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ 
+
+body {
+background-color: transparent ;
+margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#footerOne {
+  text-align: center;
+  color: white;
+background-color:transparent
+}
+
+#homePageTitle{
+text-align: center;
+color: white;
+
+
+}
+
+#bodyHomePage{
+background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(images/trpoical-bay.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            padding: 40px 0;
+            height: 100vh;
+            min-height: 100%;;
+
+}
+
+
+#tropicalBayText{
+float: right;
+background-color: transparent;
+color: white;
+font-size: 30px;
+
+}
+
+
+.topnav{ overflow: hidden;
+  background-color:dimgray;
+}
+ 
+.topnav a {
+  float: left;
+  display: block;
+  color: silver;
+  text-align: center;
+  padding: 8px 8px;
+  text-decoration: none;
+  width: 20%;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+   
+ .topnav a.active {
+  background-color: white;
+  color: black;
+}
+#foodBackground{
+       background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(images/fish-plate.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            padding: 40px 0;
+            height: 100vh;
+            min-height: 100%;
+        }
+
+#foodHeader{
+text-align: center;
+background-color:transparent;
+border: 50px;
+color: white;
+}
+
+
+ 
+#fishPlateText{
+font-size: 30px;
+font-family:Arial, Helvetica, sans-serif; 
+background-color:transparent;
+color:white;
+
+
+}
+
+#lodingBackground{
+background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(images/resort.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            padding: 40px 0;
+            height: 100vh;
+            min-height: 100%;
+            }
+
+#entertainmentBackground{background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(images/snorkeling.jpeg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            padding: 40px 0;
+            height: 100vh;
+            min-height: 100%;
+
+
+}
+#entertainmentHeader{
+text-align: center;
+background-color: gray;
+border: 50px;
+color: white;
+}
+
+
+#entertainmentText{
+font-size: 30px;
+color: white;
+
+}
+
+
+
+
+#sightseeingHeader{
+text-align: center;
+background-color: gray;
+border: 50px;
+color: white;
+}
+
+#sightseeingText{
+font-size: 30px;
+font-family:Arial, Helvetica, sans-serif; 
+background-color: transparent;
+color: white;
+float: left;
+}
+
+#sightseeingBackground{
+background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(images/tropical-sightseeing-view.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            padding: 40px 0;
+            height: 100vh;
+            min-height: 100%;
+
+
+
+}
+
+#gettingtooHeader{
+text-align: center;
+background-color: transparent;
+border: 50px;
+color: white;
+}
+
+#gettingtooText{
+font-size: 30px;
+font-family:Arial, Helvetica, sans-serif; 
+background-color: transparent;
+color: white;
+float: left;
+}
+
+#groundtransportationHeader{
+text-align: center;
+background-color: transparent;
+margin-top: 50px;
+color: white;
+}
+
+
+#groundtransportationText{
+font-size: 30px;
+font-family:Arial, Helvetica, sans-serif; 
+background-color: transparent;
+color: white;
+float: left;
+}
+
+#transportationBackground{
+background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(images/plane.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            padding: 40px 0;
+            height: 100vh;
+            min-height: 100%;
+
+
+
+}
+
+
+#faqText{
+font-size: 25px;
+color: white;
+border: 0;
+
+
+}
+
+#faqBackground{
+background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(images/trpoical-bay.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            padding: 40px 0;
+            height: 100vh;
+            min-height: 100%;;
+
+
+
+}
